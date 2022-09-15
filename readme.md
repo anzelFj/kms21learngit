@@ -1,2 +1,2 @@
-readme.md 
-# learngit 
+# learngit
+midagi lahedat
