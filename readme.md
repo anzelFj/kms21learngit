@@ -11,4 +11,3 @@ Leopold
 Ferdinando
 Malle
 Kalle
-Ülle
